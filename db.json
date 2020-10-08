@@ -1,9 +1,6 @@
 {
-    "taskId": 32,
-    "createdTimestamp": "2020-08-25T10:40:06.197Z",
-    "taskStatus": "COMPLETED",
-    "message": "15 PerDiemItem(s) exported. [ClientName:E2EAutomationTest; ApiTaskId:32]",
-    "resultSet": {
+
+
         "exportedPerDiemItemList": [
             {
                 "id": 47936,
@@ -40,5 +37,5 @@
                 "perDiemItemExportReverseId": null
             }
         ]
-    }
+
 }
