@@ -4,26 +4,6 @@
     "taskStatus": "COMPLETED",
     "message": "15 PerDiemItem(s) exported. [ClientName:E2EAutomationTest; ApiTaskId:32]",
     "resultSet": {
-        "exportedTripList": [
-            {
-                "tripId": 45328,
-                "tripName": "",
-                "exportedAmount": 8500,
-                "reversedAmount": 0
-            },
-            {
-                "tripId": 45326,
-                "tripName": "",
-                "exportedAmount": 8500,
-                "reversedAmount": 0
-            },
-            {
-                "tripId": 45327,
-                "tripName": "",
-                "exportedAmount": 8500,
-                "reversedAmount": 0
-            }
-        ],
         "exportedPerDiemItemList": [
             {
                 "id": 47936,
